@@ -1,0 +1,1 @@
+execute as @r run say i am the pyro
