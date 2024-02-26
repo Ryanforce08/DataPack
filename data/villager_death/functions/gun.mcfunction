@@ -1,0 +1,1 @@
+execute at @s run give @s crossbow{display:{Name:'{"text":"M249 LIGHT MACHINE GUN","color":"red","bold":true}'},HideFlags:5,Unbreakable:1b,CustomModelData:1,Enchantments:[{id:"minecraft:piercing",lvl:5s},{id:"minecraft:quick_charge",lvl:5s}]} 1
