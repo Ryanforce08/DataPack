@@ -3,9 +3,7 @@
 		"villager_death:load",
 		"villager_death:tick",
 		"custom_roleplay_data:init",
-		"globaltrades:main",
-                "minecraft:tick"	
+        "minecraft:tick"	
 	]
 
 }
-tellraw @a {"text": "Complete", "color": "#0000FF"}
